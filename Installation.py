@@ -1,6 +1,7 @@
 #https://www.python.org/downloads/ (#download version 3.11.9, )
 #https://code.visualstudio.com/download (to write code IDE)
 #https://docs.anaconda.com/anaconda/install/windows/ (For AIML)
+#https://nodejs.org/en/download/prebuilt-installer (for Js)
 
 #steps to update python
 #Updating Python on Windows
