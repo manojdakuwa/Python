@@ -163,6 +163,11 @@
 # Be mindful of mutability and immutability when working with sequences and dictionaries.
 # Use type conversion judiciously to avoid unexpected behavior.
 
+a= 1_0000_00
+b= 5_00_0
+
+print(a*b)
+
 
 
 

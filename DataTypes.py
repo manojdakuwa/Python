@@ -1,6 +1,7 @@
 # Introduction
 # Overview of Datatypes in Python
-# Datatypes in Python are the classification or categorization of data items. It represents the kind of value that tells what operations can be performed on a particular data. Since everything is an object in Python programming, Python data types are classes, and variables are instances (objects) of these classes.
+# Datatypes in Python are the classification or categorization of data items. It represents the kind of value that tells what operations can be performed on a particular data. 
+# Since everything is an object in Python programming, Python data types are classes, and variables are instances (objects) of these classes.
 
 # Importance of Datatypes
 # Datatypes are essential in programming as they help to:
