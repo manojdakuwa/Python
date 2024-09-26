@@ -23,7 +23,7 @@
 
 # 2. Check if a number is prime
 #Range Datatype
-# for i in range(2, 4, 1): #range datatype (start, stop, step) (2, 11(exclude), steps=2) 2, 3
+# for i in range(2, 4, 1): #range datatype (start, stop, step) (2, 11(exclude digit 11), steps=2) 2, 3
 #     print(i)
 
 # def is_prime(num): #17
@@ -63,22 +63,22 @@
 # print(".........................................................................................")
 # print(".........................................................................................")
 # # 4. Swap values of two variables without a temporary variable
-def swap_values(x, y): #x =5, y= 6 => after swap x =6, y=5
-    x = x + y #x = 10 + 20 = 30
-    print("x", x)
-    y = x - y #y = 10-20 ; y = 10
+# def swap_values(x, y): #x =5, y= 6 => after swap x =6, y=5
+#     x = x + y #x = 10 + 20 = 30
+#     print("x", x)
+#     y = x - y #y = 10-20 ; y = 10
     
-    print("y", y)
-    x = x - y #x = 30 - 10 = 20 Q#bit operator use karke solve kijiye
+#     print("y", y)
+#     x = x - y #x = 30 - 10 = 20 Q#bit operator use karke solve kijiye
     
-    print("x", x)
-    return x, y
+#     print("x", x)
+#     return x, y
 
 # print(".........................................................................................")
-a = 10
-b = 20
+# a = 10
+# b = 20
 
-a, b = b, a #tuple 
+# a, b = b, a #tuple 
 
 # print("a:", a)
 # print("b:", b)
@@ -119,6 +119,6 @@ a, b = b, a #tuple
 # print("x =", x, "y =", y)
 
 # print(".........................................................................................")
-celsius = 30
-fahrenheit = celsius_to_fahrenheit(celsius)
-print(celsius, "Celsius is equal to", fahrenheit, "Fahrenheit.")
+# celsius = 30
+# fahrenheit = celsius_to_fahrenheit(celsius)
+# print(celsius, "Celsius is equal to", fahrenheit, "Fahrenheit.")
